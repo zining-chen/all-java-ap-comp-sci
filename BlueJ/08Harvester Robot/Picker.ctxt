@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ turnRight()
+comment1.params=
+comment1.target=void\ turnAround()
+comment2.params=q
+comment2.target=void\ moves(int)
+comment3.params=
+comment3.target=void\ letterl()
+comment4.params=
+comment4.target=void\ lettera()
+comment5.params=
+comment5.target=void\ letteru()
+comment6.params=
+comment6.target=void\ letterr()
+comment7.params=
+comment7.target=void\ lettere()
+comment8.params=
+comment8.target=void\ lettern()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

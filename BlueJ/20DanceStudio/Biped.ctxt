@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=x\ y\ leftPic\ rightPic
+comment0.target=Biped(int,\ int,\ java.awt.Image,\ java.awt.Image)
+comment1.params=
+comment1.target=Foot\ getLeftFoot()
+comment10.params=g
+comment10.target=void\ draw(java.awt.Graphics)
+comment2.params=
+comment2.target=Foot\ getRightFoot()
+comment3.params=
+comment3.target=void\ firstStep()
+comment4.params=
+comment4.target=void\ nextStep()
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=
+comment6.target=int\ distanceTraveled()
+comment7.params=
+comment7.target=void\ turnLeft()
+comment8.params=
+comment8.target=void\ turnRight()
+comment9.params=
+comment9.target=void\ turnAround()
+numComments=11

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=df
+comment0.target=DanceGroup(DanceFloor)
+comment1.params=floorDir\ steps1\ steps2
+comment1.target=void\ setup(int,\ Dance,\ Dance)
+comment2.params=
+comment2.target=void\ makeNextStep()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+numComments=4

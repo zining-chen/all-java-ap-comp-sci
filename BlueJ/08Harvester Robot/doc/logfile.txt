@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.6
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/andrewbrandt/Desktop/School/AP Comp Sci/Libraries/KJR/KarelJRobot.jar:/Users/andrewbrandt/Desktop/School/AP Comp Sci/Libraries/GridWorldCodeBlueJ/gridworld.jar:/Users/andrewbrandt/Desktop/School/AP Comp Sci/Programs BlueJ/08Harvester Robot
+-d
+/Users/andrewbrandt/Desktop/School/AP Comp Sci/Programs BlueJ/08Harvester Robot/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/andrewbrandt/Desktop/School/AP Comp Sci/Programs BlueJ/08Harvester Robot/Picker.java
+<---- end of javadoc command ---->
+Loading source file /Users/andrewbrandt/Desktop/School/AP Comp Sci/Programs BlueJ/08Harvester Robot/Picker.java...
+/Users/andrewbrandt/Desktop/School/AP Comp Sci/Programs BlueJ/08Harvester Robot/Picker.java:99: ';' expected
+        move()
+              ^
+1 error

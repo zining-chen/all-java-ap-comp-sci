@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ turnRight()
+comment1.params=
+comment1.target=void\ move8()
+comment2.params=
+comment2.target=void\ move4()
+comment3.params=
+comment3.target=void\ move3()
+comment4.params=
+comment4.target=void\ move2()
+comment5.params=
+comment5.target=void\ turnAround()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

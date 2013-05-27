@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=String\ getName()
+comment1.params=i
+comment1.target=DanceStep\ getStep(int)
+comment2.target=int\ getTempo()
+comment3.params=i
+comment3.target=int\ getBeat(int)
+comment4.target=String\ toString()
+numComments=5

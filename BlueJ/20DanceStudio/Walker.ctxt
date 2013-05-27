@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ leftPic\ rightPic
+comment0.target=Walker(int,\ int,\ Image,\ Image)
+comment1.target=void\ firstStep()
+comment2.target=void\ nextStep()
+comment3.target=void\ stop()
+comment4.target=int\ distanceTraveled()
+numComments=5

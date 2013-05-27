@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=ReversedDance(Dance)
+comment1.params=i
+comment1.target=DanceStep\ getStep(int)
+comment2.params=
+comment2.target=int\ getTempo()
+comment3.params=i
+comment3.target=int\ getBeat(int)
+numComments=4

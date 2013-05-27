@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=void\ setFahrenheit(double)
+comment1.params=
+comment1.target=double\ getFahrenheit()
+comment2.params=d
+comment2.target=void\ setCelsius(double)
+comment3.params=
+comment3.target=double\ getCelsius()
+numComments=4

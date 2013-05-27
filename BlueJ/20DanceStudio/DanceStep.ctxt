@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=t1L\ dxL\ dyL\ t2L\ t1R\ dxR\ dyR\ t2R
+comment0.target=DanceStep(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getInitialTurnL()
+comment2.params=
+comment2.target=int\ getForwardDistanceL()
+comment3.params=
+comment3.target=int\ getSidewaysDistanceL()
+comment4.params=
+comment4.target=int\ getFinalTurnL()
+comment5.params=
+comment5.target=int\ getInitialTurnR()
+comment6.params=
+comment6.target=int\ getForwardDistanceR()
+comment7.params=
+comment7.target=int\ getSidewaysDistanceR()
+comment8.params=
+comment8.target=int\ getFinalTurnR()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

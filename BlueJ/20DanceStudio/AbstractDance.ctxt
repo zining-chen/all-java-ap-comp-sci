@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=steps\ rhythm
+comment0.target=AbstractDance(DanceStep[],\ int[])
+comment1.target=String\ getName()
+comment2.params=i
+comment2.target=DanceStep\ getStep(int)
+comment3.target=int\ getTempo()
+comment4.params=i
+comment4.target=int\ getBeat(int)
+comment5.target=String\ toString()
+numComments=6

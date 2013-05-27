@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ leftPic\ rightPic
+comment0.target=Pacer(int,\ int,\ java.awt.Image,\ java.awt.Image)
+comment1.params=
+comment1.target=void\ turnAround()
+comment2.params=
+comment2.target=void\ turnLeft()
+numComments=3

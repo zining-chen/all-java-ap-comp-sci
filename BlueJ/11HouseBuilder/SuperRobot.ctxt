@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ turnRight()
+comment1.params=
+comment1.target=void\ turnAround()
+comment2.params=q
+comment2.target=void\ moves(int)
+comment3.params=side
+comment3.target=void\ fillSquare(int)
+comment4.params=side
+comment4.target=void\ cleanSquare(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=F()
+comment1.params=n
+comment1.target=F(int)
+comment2.params=t
+comment2.target=F(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
